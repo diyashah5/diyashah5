@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diya Shah
 
-🎓 I’m a 2nd-year B.Tech student with a strong interest in **Web Development** and **Data Structures & Algorithms (DSA)**.
+🎓 I’m a 3nd-year B.Tech student with a strong interest in **Web Development** and **Data Structures & Algorithms (DSA)**.
  
 🤝 I’m open to:
 - Collaborating on beginner-friendly web dev projects
